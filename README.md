@@ -1,6 +1,6 @@
 # -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
-## NAME: V RAKSHA DHARANIKA
-## REF.NO:212223230167
+## NAME   : V RAKSHA DHARANIKA
+## REF.NO : 212223230167
 ## Aim:
 To write a python program to find a solution to a system of linear equations.
 ## Equipment’s required:
